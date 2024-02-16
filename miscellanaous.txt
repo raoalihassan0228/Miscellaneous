@@ -1,0 +1,20 @@
+GET & POST Requests
+GET:
+>Used to GET response
+>Data sent in query strings (limited, string data & visible in URL)
+
+POST:
+>Used to POST something (for Createl Writel update)
+>Data sent va request  body (any type of data)
+
+Factory Functions:
+A function that craetes objects
+
+Classes:
+Classes are a teplates for creating objects.
+
+Constructors:
+The constructor method is a special method of a class for creating and initializing an object instance of that class.
+
+Inheritance:
+Inheritance is a mechanism that allows us to create new classes on the basis of already existing classes.
